@@ -1,8 +1,4 @@
 # Name: Masooma Fatima
-# NSID: mbq567
-# Student number: 11438127
-# Course: CMPT 140
-# Instructor Name: Sandra Kumi
 
 import turtle
 import random
