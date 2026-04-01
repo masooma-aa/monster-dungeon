@@ -9,4 +9,4 @@ Click anywhere on the canvas to place a monster. The program uses Euclidean dist
 - Event-driven programing
 
 
-# You can use this program by making sure python is installed, and using any python editor. Run the file and click to randomly place the "monsters"
+## You can use this program by making sure python is installed, and using any python editor. Run the file and click to randomly place the "monsters"
